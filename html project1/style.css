@@ -1,0 +1,101 @@
+.hbody{
+    background-image: url(./img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+.one{
+    
+    padding-left: 230px;
+    color: red; 
+    
+}
+.two{
+    padding-left: 80px;
+    
+}
+.home{
+    background-color: white;
+    padding: 20px;
+    border-width: 5px;
+    border-color: rgb(250, 230, 230);
+    border-style: solid;
+    margin-right: 600px;
+    margin-left: 100px;
+    margin-top: 180px;
+    
+}
+ul,li{
+    display: inline;
+}
+ul:hover{
+    color: red;
+}
+ul{
+    padding-left: 200px;
+}
+.one,.two{
+    margin-top: 90px;
+
+}
+.three{
+    color:red ;
+}
+.list{
+    display: block ;
+}
+table{
+    margin: 50px;
+}
+.rbody,.cbody{
+    background-image: url(./img/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180vh;
+    width: 100%;
+}
+input:hover{
+   color: blue;
+   cursor: pointer;
+}
+.four,.five,.six{
+    color: red;
+}
+.register{
+    padding-right: 170px;
+}
+.conform{
+    padding-right: 200px;
+}
+.cbody{
+    padding-top: 200px;
+}
+.container{
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container img {
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border-style: 2px solid;
+    border-color: black;
+    transition: all ease-in-out 0.5s;
+}
+.container img:hover{
+  width: 30%;  
+}
+.dbody{
+    background-image: url(./img/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width: 100%;
+}
