@@ -30,10 +30,12 @@ The project is designed to showcase a music academy's information and allow user
 
 ## 📸 Project Preview
 
-<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/c41a9eb9-c4f7-4e82-9ae8-e0074dba7d87" />
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/052dd556-904e-4cbb-b1a1-8d4fef82ff52" />
-<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/5e54d3d5-8ddc-47a2-83c1-8186dc114c76" />
-<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/6ea6953a-5add-4750-baa4-da600ba1e5b4" />
+<img width="1920" height="968" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/5614bb29-4da1-464b-a079-2fbca8dfd7c8" />
+<img width="1920" height="1031" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/7e7ce645-86c3-4c68-8bdd-cd13e508af00" />
+<img width="1920" height="1033" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/dd9bce4f-1fcf-4ffd-a3a1-a3c7768ecbb1" />
+<img width="1920" height="1031" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/4f4d0f0b-0632-4f30-940a-a885c81967f9" />
+
+
 
 
 ## 👩‍💻 Developed By
