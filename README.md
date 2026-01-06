@@ -13,7 +13,7 @@ The project is designed to showcase a music academy's information and allow user
 ## 🛠️ Technologies Used
 
 - HTML 
-- CSS3  
+- CSS 
 
 ## 🎯 Features
 
